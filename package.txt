@@ -1,0 +1,6 @@
+NAME=faad2
+VERSION=2.8.8
+REVISION=1
+LICENSE=LGPL-2.0-only GPL-2.0-only
+SRC=https://downloads.sourceforge.net/faac/faad2-2.8.8.tar.gz
+SRCMD5=28f6116efdbe9378269f8a6221767d1f
